@@ -12,3 +12,4 @@ class DivisionController < ApplicationController
     render({ :template => "division_templates/division_results" })
   end
 end
+ 
